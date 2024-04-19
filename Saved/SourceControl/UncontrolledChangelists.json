@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/omar4/Documents/GitHub/Team5/train/Content/map.umap"
+				"C:/Users/omar4/Documents/GitHub/Team5/train/Content/map.umap",
+				"C:/Users/omar4/Documents/GitHub/Team5/train/Content/THETRAIN.umap",
+				"C:/Users/omar4/Documents/GitHub/Team5/train/Content/SM_TrainHeadFinal.uasset",
+				"C:/Users/omar4/Documents/GitHub/Team5/train/Content/SM_CarrigeFinal.uasset"
 			]
 		}
 	]
